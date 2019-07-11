@@ -1,0 +1,4 @@
+/Users/viktorkovalcuk/basecamp/vitia107_at_gmail.com-19u1-comments-find-error/build/CMakeFiles/rebuild_cache.dir
+/Users/viktorkovalcuk/basecamp/vitia107_at_gmail.com-19u1-comments-find-error/build/CMakeFiles/edit_cache.dir
+/Users/viktorkovalcuk/basecamp/vitia107_at_gmail.com-19u1-comments-find-error/build/CMakeFiles/comments_gTest.dir
+/Users/viktorkovalcuk/basecamp/vitia107_at_gmail.com-19u1-comments-find-error/build/CMakeFiles/gTest.dir

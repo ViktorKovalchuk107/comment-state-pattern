@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/comments_gTest.dir/project/comments_remover.cpp.o CMakeFiles/comments_gTest.dir/project/comments.cpp.o CMakeFiles/comments_gTest.dir/project/states.cpp.o CMakeFiles/comments_gTest.dir/test/comments_gTest.cpp.o  -o comments_gTest libgTest.a 

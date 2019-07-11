@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/viktorkovalcuk/basecamp/vitia107_at_gmail.com-19u1-comments-find-error/project/comments.cpp
+comments.h
+/Users/viktorkovalcuk/basecamp/vitia107_at_gmail.com-19u1-comments-find-error/project/comments.h
+comments_remover.h
+/Users/viktorkovalcuk/basecamp/vitia107_at_gmail.com-19u1-comments-find-error/project/comments_remover.h
+
+/Users/viktorkovalcuk/basecamp/vitia107_at_gmail.com-19u1-comments-find-error/project/comments.h
+string
+-
+
+/Users/viktorkovalcuk/basecamp/vitia107_at_gmail.com-19u1-comments-find-error/project/comments_remover.h
+string
+-
+
